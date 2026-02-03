@@ -1,0 +1,5 @@
+nome = input("digite seu nome COMPLETO:").strip()
+n1 = nome.split()
+print(f"seu PRIMEIRO nome é {n1[0]}")
+print(f"seu ULTIMO nome é {n1[-1]} ")
+print("HAHAHA A CARINHA DO DEBOCHE ;)")
